@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1096707781312",
+    "project_id": "chat-dileep",
+    "storage_bucket": "chat-dileep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096707781312:android:6c47a7fb0322b19d717325",
+        "android_client_info": {
+          "package_name": "com.dileep.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096707781312-0mk414dhtfgiai2ph61101se0g7fntid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNian5FdLSx9HBIRIRv8p_LRUZLK0pkWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096707781312-0mk414dhtfgiai2ph61101se0g7fntid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096707781312-fmjs124r3243t5kh01q7jnk1n5cgo8uv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dileep.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
