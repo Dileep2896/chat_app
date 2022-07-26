@@ -110,7 +110,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                           }
                         },
                         color: Colors.purple.shade700,
-                        title: "Register Madbeka 😏",
+                        title: "Register",
                       )
                     ],
                   ),

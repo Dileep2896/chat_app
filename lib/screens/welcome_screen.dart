@@ -76,7 +76,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     // ignore: deprecated_member_use
                     TyperAnimatedTextKit(
                       text: const [
-                        "Chat With Dileep",
+                        "Chat",
                       ],
                       textStyle: TextStyle(
                         color: Colors.purple.shade700,

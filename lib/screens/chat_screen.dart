@@ -75,7 +75,7 @@ class _ChatScreenState extends State<ChatScreen> {
                   }),
             ],
             title: const Text(
-              'Chat With Dileep',
+              'Chat',
               style: TextStyle(
                 fontFamily: 'Pacifico',
               ),
